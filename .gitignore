@@ -1,0 +1,17 @@
+# Build and Object Folders
+bin/
+obj/
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+packages/
+Word/
+Pdf/
+/YMS.Corporate.Website.Pretrial/Logfile/log.txt
+/YMS.Corporate.Website.Matter/Properties/PublishProfiles/matter.pubxml
+�ĵ�/
+/YMS.Corporate.Website.Matter/Web大厅测试.config
+/YMS.Corporate.Website.Matter/Web.config
+/YMS.Corporate.Website.Pretrial/Service References/ServiceReference1
+/GX.KunMing.Corporate.Workspace.rar
